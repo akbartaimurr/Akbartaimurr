@@ -16,7 +16,7 @@
   <a href="https://www.youtube.com/@taidxb" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://urdadtaimur.web.app" target="_blank">
+  <a href="https://akbartaimurr.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
 </p>
