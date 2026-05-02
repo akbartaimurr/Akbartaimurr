@@ -24,10 +24,9 @@
 <p><strong>👋 About Me</strong></p>
 
 <p>
-• 14 y/o learning web development<br>
+• 14<br>
 • Currently learning JavaScript<br>
 • Exploring machine learning with Python<br>
-• Year 10 student just trying to build cool stuff :)
 </p>
 
 
