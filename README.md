@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/⊹ Studying Machine Learning-1C2330?style=flat-square"/>
 </p>
 
-<p><strong>🚧 check ts out</strong></p>
+<p><strong>🚧 check this out</strong></p>
 <a href = "https://github.com/akbartaimurr/notethetic-by-cognify">
 <table>
   <tr>
