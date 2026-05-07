@@ -9,9 +9,8 @@
 </pre>
 </p>
 <p>
-• 14<br>
-• Currently learning JavaScript<br>
-• Exploring machine learning with Python<br>
+• 14 n familiar w html,js & python<br>
+• learning machine learning w python<br>
 </p>
 
 <p><strong>🚧 check ts out</strong></p>
