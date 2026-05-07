@@ -9,7 +9,7 @@
 </pre>
 </p>
 <p>
-• 14 n familiar w html,js & python<br>
+• 14, familiar with [html ~ css ~ js ~ python]<br>
 • learning machine learning w python<br>
 </p>
 
