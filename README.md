@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/⊹ Studying Machine Learning-1C2330?style=flat-square"/>
 </p>
 
-<img src="https://img.shields.io/badge/-⊹ Currently managing-1C2330?style=flat-square&labelColor=E34F26"/>
 <a href="https://fitgif.vercel.app">
   <img src="https://github.com/user-attachments/assets/5e9630dc-e9f0-4b30-81a3-8b9a5739fd31" width="810">
 </a>
