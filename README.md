@@ -20,5 +20,5 @@
 </p>
 
 <a href="https://fitgif.vercel.app">
-  <img src="https://github.com/user-attachments/assets/5e9630dc-e9f0-4b30-81a3-8b9a5739fd31" width="810">
+  <img src="https://github.com/user-attachments/assets/5e9630dc-e9f0-4b30-81a3-8b9a5739fd31" width="850">
 </a>
